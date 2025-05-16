@@ -40,7 +40,7 @@ CampusMap/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/CampusMap.git
+   git clone https://github.com/AjwaHarram/CollegeMap-Project
    cd CampusMap
 2. Install required package:
    ```bash
